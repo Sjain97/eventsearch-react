@@ -5,8 +5,6 @@ By: **Shubham Jain**
 EventSearch is an end-to-end web app for finding the next happening event. The app lets users search events, mark
 favorites and view the relevant event/artist details in neat cards.
 
-## <a href="https://shubham-jain-events-webapp.wl.r.appspot.com/search" target="_blank">Link to live web-app</a>
-
 ## Features
 
 The following functionality is completed:
@@ -24,11 +22,13 @@ The following functionality is completed:
 - [ ] Modal to display map location	(GoogleMaps API)
 - [ ] Custom Proxy Server for Backend using Node.js (hosted on GCP)
 
+## <a href="https://shubham-jain-events-webapp.wl.r.appspot.com/search" target="_blank">Link to live web-app</a>
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ns_cB8L1uT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![EventSearch - React web app](https://img.youtube.com/vi/ns_cB8L1uT4/0.jpg)](https://www.youtube.com/watch?v=ns_cB8L1uT4)
 
 ## License
 
