@@ -31,8 +31,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Sjain97/eventsearch-react/blob/main/event-search-react.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/) for macOS
-
 
 ## License
 
