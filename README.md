@@ -9,18 +9,18 @@ favorites and view the relevant event/artist details in neat cards.
 
 The following functionality is completed:
 
-- [ ] React Router for single-page application (web-app never reloads the entire page)
-- [ ] Config-driven UI -- only show fields that have data
-- [ ] Redux is used for central data-store to avoid props-drilling
-- [ ] Auto-detect location using ipInfo API
-- [ ] Events table showing events in date/time sorted order
-- [ ] Custom hook to fetch event details
-- [ ] LocalStorage used to store favorite events
-- [ ] Back button on Event Card that re-renders the table (not another API call)
-- [ ] Spotify API used for getting music-related artist details
-- [ ] Use of Context to identify current tab
-- [ ] Modal to display map location	(GoogleMaps API)
-- [ ] Custom Proxy Server for Backend using Node.js (hosted on GCP)
+- [x] React Router for single-page application (web-app never reloads the entire page)
+- [x] Config-driven UI -- only show fields that have data
+- [x] Redux is used for central data-store to avoid props-drilling
+- [x] Auto-detect location using ipInfo API
+- [x] Events table showing events in date/time sorted order
+- [x] Custom hook to fetch event details
+- [x] LocalStorage used to store favorite events
+- [x] Back button on Event Card that re-renders the table (not another API call)
+- [x] Spotify API used for getting music-related artist details
+- [x] Use of Context to identify current tab
+- [x] Modal to display map location	(GoogleMaps API)
+- [x] Custom Proxy Server for Backend using Node.js (hosted on GCP)
 
 ## <a href="https://shubham-jain-events-webapp.wl.r.appspot.com/search" target="_blank">Link to live web-app</a>
 
@@ -29,6 +29,7 @@ The following functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 [![EventSearch - React web app](https://img.youtube.com/vi/ns_cB8L1uT4/0.jpg)](https://www.youtube.com/watch?v=ns_cB8L1uT4)
+
 
 ## License
 
