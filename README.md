@@ -31,6 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Sjain97/eventsearch-react/blob/main/event-search-react.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Code available upon request.
 
 ## License
 
