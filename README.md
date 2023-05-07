@@ -1,4 +1,4 @@
-# *EventSearch - React webapp*
+# *EventSearch - React web app*
 
 By: **Shubham Jain**
 
