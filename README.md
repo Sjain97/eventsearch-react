@@ -26,9 +26,12 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough (YouTube Link) of implemented user stories:
+Here's a walkthrough of implemented user stories:
+[YouTube Link](https://www.youtube.com/watch?v=ns_cB8L1uT4)
 
-[![EventSearch - React web app](https://img.youtube.com/vi/ns_cB8L1uT4/0.jpg)](https://www.youtube.com/watch?v=ns_cB8L1uT4)
+<img src='https://github.com/Sjain97/eventsearch-react/blob/main/event-search-react.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Kap](https://getkap.co/) for macOS
 
 
 ## License
